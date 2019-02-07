@@ -6,6 +6,7 @@ Welcome to my practice git repository of Tableau. There are some results for pra
 ![heatmao](P1.png)
 
 
+## Area Chart 
 ![heatmao](P2.png)
 ![heatmao](P3.png)
 ![heatmao](P4.png)
