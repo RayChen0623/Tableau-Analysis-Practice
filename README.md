@@ -9,10 +9,13 @@ Welcome to my practice git repository of Tableau. There are some results for pra
 ## Area Chart for Age Group Through Time
 ![heatmao](P2.png)
 
-## Map
+## Map with ScatterPlot 
 ![heatmao](P3.png)
 
-##
+## Dual Axis Chart (Bar Plot with Area plot)
 ![heatmao](P4.png)
+
+
+## Horizontal Bar Plot
 ![heatmao](P5.png)
 ![heatmao](P6.png)
