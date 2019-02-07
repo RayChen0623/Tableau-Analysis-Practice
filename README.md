@@ -16,6 +16,6 @@ Welcome to my practice git repository of Tableau. There are some results for pra
 ![heatmao](P4.png)
 
 
-## Horizontal Bar Plot
+## Horizontal Bar Plot: Performances of Two Airlines by Regions
 ![heatmao](P5.png)
-![heatmao](P6.png)
+
